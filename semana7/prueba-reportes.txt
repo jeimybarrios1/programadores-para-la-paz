@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes se muestran todos los reportes registrados previamente mediante la ruta POST. 
+La información se almacena temporalmente en un array mientras el servidor se encuentra en ejecución.
+Al realizar la consulta, se obtiene una lista con los reportes registrados y su respectivo identificador, tipo y descripción.
