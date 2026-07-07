@@ -1,0 +1,12 @@
+¿Qué dos tareas haría primero?
+
+1. Registrar una incidencia.
+2. Recibir una notificación en Telegram.
+
+¿Por qué?
+Son las más importantes porque primero se necesita registrar la información y luego avisar que existe un nuevo reporte para iniciar el seguimiento.
+
+Para mí una tarea está terminada cuando:
+- Funciona correctamente.
+- Fue probada.
+- Quedó registrada en Git.
