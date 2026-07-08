@@ -9,7 +9,6 @@ Campos principales:
 Propósito:
 Guardar las causas comunitarias para que las personas puedan conocerlas.
 
-
 Entidad: Apoyo
 
 Campos principales:
