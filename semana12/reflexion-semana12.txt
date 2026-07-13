@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana 
+y la organización comunitaria, entendí que por medio de páginas web y aplicaciones sencillas, es posible facilitar el 
+registro y la consulta de información, también comprendí la importancia de proteger los datos de las personas y de aplicar 
+buenas prácticas de seguridad y promover una ciudadanía digital responsable. Además, conocí herramientas como Git y GitHub, 
+que permiten organizar el trabajo y llevar un mejor control de los cambios en los proyectos, aprendí a crear una API básica 
+con Node.js y Express para gestionar información de manera más eficiente. Todo esto me permitió entender que la programación 
+no solo sirve para desarrollar software, sino también para crear soluciones que respondan a las necesidades de las comunidades. 
+Me llevo nuevos conocimientos que seguiré fortaleciendo y que espero aplicar en proyectos con impacto social desde mi profesión como futura trabajadora social.
